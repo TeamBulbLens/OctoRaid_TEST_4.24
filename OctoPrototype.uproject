@@ -22,6 +22,10 @@
 			"Name": "VRIKBody",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c7314be54a7d49939c2dabc13fe1ffff"
+		},
+		{
+			"Name": "Takes",
+			"Enabled": true
 		}
 	]
 }
